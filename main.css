@@ -8,7 +8,7 @@
 
 body
 {  
-    background-image: url(Sea-Sunset/image.jpg);
+    background-image: url("Sea-Sunset.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
